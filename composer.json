@@ -1,0 +1,10 @@
+{
+    "name": "dilipkrsrn/test",
+    "description": "Creating first Framework.",
+    "keywords": ["framework"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    }
+}	
